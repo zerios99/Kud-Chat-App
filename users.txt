@@ -1,0 +1,7 @@
+zain@gmail.com => 123456
+
+zain-1@gmail.com => 123456
+
+zain-2@gmail.com => 123456
+
+zain-3@gmail.com => 123456
