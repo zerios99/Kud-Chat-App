@@ -44,11 +44,14 @@ npm start
 
 📷 صور من التطبيق
 
+
 شاشة تسجيل الدخول
-
+<img width="1175" height="589" alt="login" src="https://github.com/user-attachments/assets/6375280c-bd92-42ca-b45c-f98d6f61d6f4" />
 شاشة إنشاء حساب
-
+<img width="1365" height="628" alt="profile edite" src="https://github.com/user-attachments/assets/978503bf-67c8-4e92-82f1-5a72c3cced03" />
 شاشة الدردشة
+<img width="1365" height="602" alt="chat container" src="https://github.com/user-attachments/assets/0d601f95-7f34-4e44-9748-8dc844e1ec93" />
+
 
 
 👤 فريق العمل
