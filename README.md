@@ -21,12 +21,11 @@
 ## 📦 التثبيت والتشغيل
 1. انسخ المشروع:
    ```bash
-   git clone https://github.com/USERNAME/REPO-NAME.git
-   cd REPO-NAME
+   git clone 
 
 2. ثبّت المكتبات:
 
-npm install
+npm install in the client and server
 
 
 3. شغّل الواجهة الأمامية:
@@ -38,7 +37,7 @@ npm run dev
 4. شغّل الواجهة الخلفية:
 
 cd server
-npm start
+npm run dev
 
 
 
