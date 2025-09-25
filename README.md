@@ -21,7 +21,7 @@
 ## 📦 التثبيت والتشغيل
 1. انسخ المشروع:
    ```bash
-   git clone 
+   git clone https://github.com/zerios99/Kud-Chat-App.git
 
 2. ثبّت المكتبات:
 
